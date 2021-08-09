@@ -157,8 +157,8 @@ header{
     font-size: 4em;
     width: 100%;
     text-align: center;
-    margin-bottom: 30px;
-    padding: 0 2em;
+    margin-bottom: 0;
+    padding: 1em 2em .2em;
     font-family: 'Atkinson Hyperlegible';
 }
 
@@ -621,8 +621,6 @@ footer > a:hover{
         font-size: 3em;
     }
 
-
-
     .processes > p, .work > p, .services > p ,.partnership > p{
         padding: 0;
         font-size: 2.2em;
@@ -682,7 +680,7 @@ footer > a:hover{
 
     .logo{
         padding: 14px 10px;
-        margin-left: 40px;
+        margin-left: 25px;
     }
 
     .contact{
@@ -711,8 +709,6 @@ footer > a:hover{
 
     .my-container h2{
         font-size: 2.2em;
-        margin-bottom: 20px;
-        padding: 1em;
     }
 
     .box{
@@ -737,6 +733,7 @@ footer > a:hover{
     .card h2{
         font-size: 1.6em;
         margin-bottom: 10px;
+        padding: .5em;
     }
 
     .card .card-content h3{
